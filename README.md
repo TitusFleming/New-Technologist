@@ -6,7 +6,7 @@
 To clone the repository, use the following command in your terminal:
 ```bash
 git clone https://github.com/TitusFleming/New-Technologist.git
-cd GPTQuestion
+cd New-Technologist
 ```
 
 ### Step 2: Compile and Run the C++ File
